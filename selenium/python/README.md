@@ -17,7 +17,7 @@ The file should contain 4 lines:
     myID
     mypassword
     http://mydomain.com/somewhere
-    /home/username/.../integration-tests/data/zipfilename.zip
+    /home/username/.../integration-tests/selenium/python/data/zipfilename.zip
  
 
 ### Running Tests

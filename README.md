@@ -16,6 +16,7 @@ The Selenium IDE is a Firefox Add-on.
 #### Running Tests 
 
 To run a Test Suite
+
 1. Open Firefox
 2. Open the Selenium IDE
 3. Select File..Open... from the Selenium IDE menu
@@ -24,6 +25,7 @@ To run a Test Suite
 6. Click on the "Play entire test suite" button in the IDE
 
 To run a Test Case
+
 1. If you have the Test Case open in as part of a Suite, double click the Test Case and click the "Run current Test Case" button
 2. Otherwise, select File..Open... from the Selenium IDE menu
 3. Select the Test Case in the file selection dialog

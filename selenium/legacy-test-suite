@@ -11,9 +11,9 @@
 <tr><td><a href="view-module">view-module</a></td></tr>
 <tr><td><a href="view-collection">view-collection</a></td></tr>
 <tr><td><a href="search">search</a></td></tr>
-<tr><td><a href="create-module">login</a></td></tr>
 <tr><td><a href="create-module">create-module</a></td></tr>
 <tr><td><a href="lenses">lenses</a></td></tr>
+<tr><td><a href="download-pdf">download-pdf</a></td></tr>
 </tbody></table>
 </body>
 </html>
